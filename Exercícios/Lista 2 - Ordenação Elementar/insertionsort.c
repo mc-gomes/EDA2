@@ -1,8 +1,8 @@
 /*
-Faça um algoritmo de Inserção Simples
-(inseriton sort Simples)
-que imprima os números em ordem
-crescente, separados por espaços
+Faça um algoritmo de Inserção
+(inseriton sort) que imprima os
+números em ordem crescente, 
+separados por espaços
 e o último número deve ser seguido
 de quebra de linha
 */
